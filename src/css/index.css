@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+    --primary-color: #05a6f0;
+    --max-width: 72%;
+    --border-radius: 4px;
+    --icon-radius: 16px;
+    --icon-size: 60px;
+    --icon-gap-x: 30px;
+    --icon-gap-y: 30px;
+    --icon-opacity: 1;
+    --icon-name: 1;
+    --icon-nameSize: 12px;
+    --icon-nameColor: #fff;
+    --sidebar-width: 50px;
+    --wall-mask: 1;
+    --wall-blur: 0px;
+    --wall-background: '';
+    --search-height: 48px;
+    --search-radius: 25px;
+    --time-size: 80px;
+    --time-font: '';
+    --time-color: #fff;
+    --time-fontWeight: 500;
+    --time-month: inline;
+    --time-week: inline;
+    --time-lunar: inline;
+    --number-swipes: 1;
+}
